@@ -35,6 +35,6 @@ function sendEmails(startRow,startCol,numRows,numCols) {
   }
 }
 function myFunction() {
-  // Fetch the range of cells A2:B5
+  // Fetch the range of cells A2:B4
   sendEmails(2,1,1,5);
 }
